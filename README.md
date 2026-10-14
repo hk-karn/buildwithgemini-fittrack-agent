@@ -2,6 +2,8 @@
 
 FitTrack AI is an agentic strength and fitness coaching companion built on Google Cloud's Agent Development Kit (ADK) and Agent Platform. It provides personalized training plan guidance, tracks workouts and exercise history, calculates one-rep max (1RM) and percentage training zones via secure sandboxed code execution, and generates celebratory milestone badges for personal records.
 
+![FitTrack AI Demo](demo.gif)
+
 ---
 
 ## 🌟 What FitTrack AI Does
